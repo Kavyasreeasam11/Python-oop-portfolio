@@ -1,6 +1,6 @@
-# Python-oop-portfolio
+Python-oop-portfolio
 A Digital Library Management system to track media in the system
-# Object-Oriented Programming (OOP) Portfolio 🚀
+Object-Oriented Programming (OOP) Portfolio
 
 Welcome to my Python OOP portfolio! This repository tracks my journey of learning python.
 
@@ -16,5 +16,5 @@ Inheritance & Method Overriding: Constructed a clean taxonomy tree routing stand
 ### Project Architecture Mapping
 
 ```text
-01_digital_library/
+DigitalLMS/
 └── main.py             # Full execution engine script
