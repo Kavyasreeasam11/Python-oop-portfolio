@@ -1,10 +1,12 @@
 Python-oop-portfolio
-A Digital Library Management system to track media in the system
+
+
+
 Object-Oriented Programming (OOP) Portfolio
 
 Welcome to my Python OOP portfolio! This repository tracks my journey of learning python.
 
-Digital Library Management System 
+1.#Digital Library Management System 
 
 A backend command-line tracker that manages distinct digital media components within a library catalog layout environment.
 
@@ -13,8 +15,18 @@ Composition ("Has-A" Relationship) : The `Library` manages an internal collectio
 Dunder Magic Methods: Customized collection handling using built-in mechanics (`__len__`, `__getitem__`, and `__str__`).
 Inheritance & Method Overriding: Constructed a clean taxonomy tree routing standard traits from a base `Media` class into structural `Book` and `Magazine` child endpoints.
 
-### Project Architecture Mapping
+Project Architecture Mapping
 
-```text
 DigitalLMS/
-└── main.py             # Full execution engine script
+└── main.py             
+
+2.#The E-Commerce Cart & Inventory Engine
+A backend command-line Ecommerce Inventory management system 
+Inventory products stocks are managed
+Shopping cart is created and products can be brought from the cart
+Custom coupons can be applied to the cart
+Ecommerce/
+└── main.py  
+
+
+
