@@ -25,6 +25,7 @@ A backend command-line Ecommerce Inventory management system
 Inventory products stocks are managed
 Shopping cart is created and products can be brought from the cart
 Custom coupons can be applied to the cart
+Key Components Utilized : Multiple Classes and Dictonaries contaning objects
 Ecommerce/
 └── main.py  
 
